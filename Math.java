@@ -1,5 +1,3 @@
-﻿package ShareProject;
-
 public class Math {
 
 	public static void main(String[] args) {
@@ -22,6 +20,5 @@ public class Math {
 //   输出a*2^c
         int c = 3 ;
         System.out.println("a*2^c="+StrictMath.scalb(a,c));
-	}
-
 }
+
